@@ -1,2 +1,2 @@
 # test-gha
-Github actions test
+Github actions small example
